@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "nombre": "Toks",
+    "chefs": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": 2,
+    "nombre": "Samborns",
+    "chefs": [
+      1
+    ]
+  }
+]
